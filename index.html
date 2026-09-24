@@ -1,2 +1,26 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0b1220"><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="style.css"><title>Public Record Explorer</title></head><body><header class="topbar"><div><div class="eyebrow">SOURCE-FIRST RESEARCH DATABASE</div><h1>Public Record Explorer</h1></div><button id="homeBtn" class="ghost">Home</button></header><main><section id="dashboard"></section><section id="searchPanel"><input id="searchInput" type="search" placeholder="Search people, topics, quotes, categories…" autocomplete="off"><div id="quickFilters" class="chips"></div></section><nav id="tabs" class="tabs"></nav><section id="content"></section></main><dialog id="detailDialog"><div id="detailContent"></div><form method="dialog"><button class="closeBtn">Close</button></form></dialog><script src="app.js"></script></body></html>
+<html><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#17375e">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="style.css">
+<title>Public Record Explorer</title>
+</head><body>
+<header><h1>Public Record Explorer</h1><div class="sub">Offline-first source database</div></header>
+<main>
+<section id="home">
+<div class="hero"><h2>Explore the record</h2><p>Search documented events, quotes, legal findings and source material. Records remain available offline after installation.</p></div>
+<input id="homeSearch" class="search" placeholder="Search the entire database…">
+<div class="tabs"><button id="categoriesBtn" class="active">Categories</button><button id="timelineBtn">Timeline</button><button id="peopleBtn">People</button><button id="savedBtn">Saved</button></div><div class="filterbar"><select id="eraFilter"><option value="">All eras</option></select></div>
+<div id="stats" class="stats"></div><div id="categories" class="grid"></div>
+</section>
+<section id="browse" hidden>
+<button id="backBtn" class="back">‹ Categories</button>
+<div id="crumb" class="crumb">All records</div>
+<input id="search" class="search" placeholder="Search people, quotes, events, topics…">
+<div id="count" class="count"></div><div id="records"></div>
+</section>
+</main>
+<dialog id="detail"><article id="detailBody"></article></dialog>
+<script src="app.js"></script>
+</body></html>
