@@ -1378,5 +1378,28 @@
     "quality": "Primary / major independent source",
     "verification": "Verified",
     "notes": ""
+  },
+  {
+    "id": "TR-0061",
+    "date": "2026-01-22",
+    "era": "Second Presidency",
+    "category": "Ethics / Conflicts of Interest",
+    "tags": "TikTok; Divestiture; Conflicts of interest; Oracle; MGX; World Liberty Financial; Foreign investment; Treasury fee",
+    "people": "Donald Trump; Larry Ellison; Oracle; Silver Lake; MGX; Sheikh Tahnoon bin Zayed Al Nahyan; Eric Trump; World Liberty Financial; Jeff Yass; Susquehanna",
+    "title": "TikTok U.S. deal gives stakes to Trump-connected investors amid financial conflict questions",
+    "summary": "The Trump administration facilitated a restructuring of TikTok's U.S. operations finalized January 22, 2026. Oracle, Silver Lake and Abu Dhabi-backed MGX each received 15% stakes; a Susquehanna affiliate was also among investors. Separately, a company backed by Sheikh Tahnoon, who chairs MGX, agreed to buy 49% of Trump-family-linked World Liberty Financial for $500 million, with a reported $187 million from the initial payment going to Trump-family entities. Reuters later reported a planned $10 billion fee payable by TikTok investors to the U.S. Treasury for facilitating the deal.",
+    "quote": "",
+    "speaker": "",
+    "claim": "The transaction created potential financial benefits for investors connected to Trump and raised questions about whether administration influence and private financial relationships created conflicts of interest.",
+    "context": "The TikTok venture is a majority-American-owned restructuring rather than a straightforward sale of all U.S. operations. The $10 billion fee was reported as payable to the U.S. Treasury, not Trump personally. The World Liberty investment is a separate transaction involving an MGX-connected investor network, not a documented TikTok-sale payment to Trump. No public evidence cited here establishes that Trump personally received TikTok sale proceeds or engaged in an illegal quid pro quo.",
+    "status": "Completed U.S. joint venture; documented investor relationships and reported Treasury fee; conflict-of-interest concerns, no established personal TikTok-sale payment or adjudicated wrongdoing",
+    "sourceType": "Joint-venture announcement / Reuters / Wall Street Journal reporting",
+    "primary": "https://www.silverlake.com/tiktok-usds-joint-venture-llc-established-in-compliance-with-u-s-regulatory-requirements/",
+    "source1": "https://www.reuters.com/world/china/trump-administration-set-receive-10-billion-fee-brokering-tiktok-deal-wsj-2026-03-13/",
+    "source2": "https://www.wsj.com/",
+    "truth": "",
+    "quality": "Primary corporate announcement and major news reporting",
+    "verification": "Verified",
+    "notes": "WSJ Jan. 31, 2026 reported the separate World Liberty investment. Distinguish ownership stake from realized profit, and reported $10 billion Treasury fee from any personal payment. Reference: https://archive.is/ztSao"
   }
 ]
