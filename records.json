@@ -3057,5 +3057,28 @@
     "quality": "Primary federal court filing and DOJ statements",
     "verification": "Verified indictment; underlying conduct alleged, not adjudicated",
     "notes": "Contextual 2024 campaign-era foreign influence record; no proven Trump involvement. Do not conflate the DOJ's allegations with criminal findings or assume the commentators knew the funding source."
+  },
+  {
+    "id": "TR-0134",
+    "date": "2026-05-06",
+    "era": "Second Presidency",
+    "category": "Religion / Political Symbolism",
+    "tags": "Trump National Doral; Mark Burns; Golden statue; Religious dedication; $PATRIOT; Cryptocurrency; Conflicts of interest",
+    "people": "Donald Trump; Pastor Mark Burns; Alan Cottrill; $PATRIOT promoters",
+    "title": "Pastor Mark Burns leads prayer and dedication for golden Trump statue at Doral",
+    "summary": "On May 6, 2026, evangelical pastor and Trump ally Mark Burns led a dedication ceremony with clergy and prayers for a 22-foot gold-leaf-covered statue depicting Donald Trump raising his fist at Trump National Doral Miami. Trump reportedly joined the ceremony by telephone and later publicly praised the statue. Sculptor Alan Cottrill made the work, called 'Don Colossus,' commissioned by cryptocurrency investors promoting the $PATRIOT meme coin. Critics, including religious leaders, likened the ceremony to idolatry; Burns denied that it was worship and characterized it as honoring Trump.",
+    "quote": "",
+    "speaker": "",
+    "claim": "A gold-leaf-covered statue of Trump was unveiled and dedicated with prayers at his Doral golf property; the statue was tied to promotion of a cryptocurrency token.",
+    "context": "The dedication took place at Trump National Doral Miami, not Mar-a-Lago. Reported statue project costs vary by outlet; no specific financial gain to Trump from the statue or cryptocurrency was established by these reports. Criticism alleging idolatry is an interpretation, not a factual finding.",
+    "status": "Ceremony documented; religious interpretations disputed; crypto-related financing reported",
+    "sourceType": "Contemporaneous news reports / interview",
+    "primary": "https://www.newyorker.com/news/q-and-a/why-trumps-spiritual-adviser-dedicated-a-golden-statue-to-the-president",
+    "source1": "https://www.miamiherald.com/news/state/florida/article315713130.html",
+    "source2": "https://www.washingtonpost.com/politics/2026/05/15/trump-golf-course-golden-statue-him-draws-mixed-reactions/",
+    "truth": "",
+    "quality": "Multiple established news organizations",
+    "verification": "Documented event; disputed characterizations attributed",
+    "notes": "Ceremony date May 6, 2026. Reports describe a 22-foot statue covered with gold leaf, not solid gold. Avoid claiming Trump personally commissioned or funded it, or that attendees worshipped Trump as an established fact."
   }
 ]
