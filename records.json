@@ -3034,5 +3034,28 @@
     "quality": "Major reporting / primary documentation",
     "verification": "Sourced; financial benefit and legal status differentiated",
     "notes": "Source-reviewed October 9, 2026. Transaction date, public announcement date, and reporting date may differ. Financial figures may overlap related records."
+  },
+  {
+    "id": "TR-0133",
+    "date": "2024-09-04",
+    "era": "2024 Campaign",
+    "category": "Foreign Influence / Election Interference",
+    "tags": "Russia; RT; Tenet Media; Influencers; Covert funding; 2024 election; Foreign influence",
+    "people": "Kostiantyn Kalashnikov; Elena Afanasyeva; Tenet Media; Tim Pool; Dave Rubin; Benny Johnson; Lauren Southern; Matt Christiansen; Tayler Hansen; Lauren Chen; Liam Donovan",
+    "title": "DOJ indicts Russian RT employees over alleged covert funding of Tenet Media",
+    "summary": "On September 4, 2024, DOJ unsealed an indictment alleging two employees of Russian state-controlled RT covertly directed nearly $10 million through a Tennessee-based media company publicly identified as Tenet Media. The company distributed political commentary by prominent conservative influencers, including Tim Pool, Dave Rubin, Benny Johnson, Lauren Southern, Matt Christiansen and Tayler Hansen. DOJ alleged the operation sought to amplify U.S. divisions and advance Russian interests. The named influencers were not charged in the case, and the indictment did not establish that they knowingly accepted Russian-government funding or that Donald Trump participated in the scheme.",
+    "quote": "",
+    "speaker": "",
+    "claim": "Federal prosecutors alleged a covert Russian influence and money-laundering operation using an American media company and online commentators.",
+    "context": "The DOJ indictment charged RT employees Kalashnikov and Afanasyeva, not the listed influencers. Tenet Media was publicly identified in reporting as the company described anonymously in the indictment. The nearly $10 million refers to alleged overall operation funding, not a proven total paid to the six commentators.",
+    "status": "Federal indictment unsealed September 4, 2024; allegations against two RT employees; influencers not charged",
+    "sourceType": "Federal indictment / DOJ press release",
+    "primary": "https://www.justice.gov/opa/media/1366266/dl",
+    "source1": "https://www.justice.gov/usao-sdny/pr/two-rt-employees-indicted-covertly-funding-and-directing-us-company-published",
+    "source2": "https://www.justice.gov/archives/opa/speech/attorney-general-merrick-b-garland-delivers-remarks-convening-election-threats-task",
+    "truth": "",
+    "quality": "Primary federal court filing and DOJ statements",
+    "verification": "Verified indictment; underlying conduct alleged, not adjudicated",
+    "notes": "Contextual 2024 campaign-era foreign influence record; no proven Trump involvement. Do not conflate the DOJ's allegations with criminal findings or assume the commentators knew the funding source."
   }
 ]
