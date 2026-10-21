@@ -8,9 +8,10 @@
 </head><body>
 <header><h1>Public Record Explorer</h1><div class="sub">Offline-first source database</div></header>
 <main>
+<nav class="party-switch" aria-label="Choose party records"><button id="republicansBtn" class="selected" aria-pressed="true">Republicans</button><button id="democratsBtn" aria-pressed="false">Democrats</button></nav>
 <section id="home">
 <div class="hero"><h2>Explore the record</h2><p>Search documented events, quotes, legal findings and source material. Records remain available offline after installation.</p></div>
-<input id="homeSearch" class="search" placeholder="Search the entire database…">
+<input id="homeSearch" class="search" placeholder="Search this party’s records…">
 <div class="tabs"><button id="categoriesBtn" class="active">Categories</button><button id="timelineBtn">Timeline</button><button id="peopleBtn">People</button><button id="savedBtn">Saved</button></div><div class="filterbar"><select id="eraFilter"><option value="">All eras</option></select></div>
 <div id="stats" class="stats"></div><div id="categories" class="grid"></div>
 </section>
