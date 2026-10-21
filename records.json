@@ -4460,5 +4460,28 @@
     "quality": "Primary video and established wire reporting",
     "verification": "Verified public statements and campaign appearance",
     "notes": "Vance's presence and advocacy are confirmed; describing the activity as illegal election interference is not supported by these sources. Source-reviewed October 20, 2026."
+  },
+  {
+    "id": "TR-0195",
+    "date": "2026-02-01",
+    "era": "Second Presidency",
+    "category": "Epstein Files / Transparency",
+    "tags": "Jeffrey Epstein; DOJ release; Donald Trump; Melania Trump; Mar-a-Lago; New York Times; 38000 references; 5300 files",
+    "people": "Donald Trump; Melania Trump; Jeffrey Epstein; Todd Blanche",
+    "title": "New York Times finds 38,000-plus Trump-related references in 5,300-plus Epstein files",
+    "summary": "A February 1, 2026 New York Times analysis of the Justice Department's January 30 Epstein files release identified more than 5,300 files containing over 38,000 references to Donald Trump, Melania Trump, Mar-a-Lago, and other related search terms. The figures reflect search matches, not 38,000 references to Trump's exact name or 38,000 distinct allegations. The DOJ said the January 30 publication added more than three million pages and brought the cumulative public release to nearly 3.5 million pages.",
+    "quote": "",
+    "speaker": "",
+    "claim": "The New York Times reported over 38,000 references to Trump and related terms in more than 5,300 released Epstein-related files.",
+    "context": "The Times used a proprietary search tool; the exact keyword list and deduplication methods were not publicly specified. Files contain heterogeneous material, including news clippings, emails, tips, duplicates and unverified allegations. The count does not itself establish criminal wrongdoing. Trump denies wrongdoing related to Epstein. Deputy Attorney General Todd Blanche said DOJ did not find credible information to merit further investigation of allegations against Trump.",
+    "status": "Published media analysis, February 1, 2026; not a DOJ-certified count",
+    "sourceType": "New York Times original analysis; DOJ official release",
+    "primary": "https://www.nytimes.com/2026/02/01/us/politics/trump-epstein-files.html",
+    "source1": "https://gvwire.com/2026/02/02/how-trump-appears-in-the-epstein-files/",
+    "source2": "https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files",
+    "truth": "",
+    "quality": "Attributed investigative reporting with official DOJ release context",
+    "verification": "NYT-reported counts; independently reproducible search methodology not published",
+    "notes": "Do not characterize 38,000 as Trump's name alone or as allegations. NYT count was for the latest January 2026 tranche; prior releases reportedly contained another 130 files with Trump-related references. Search totals may change with new releases, indexing or search methodology."
   }
 ]
